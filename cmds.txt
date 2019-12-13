@@ -1,2 +1,5 @@
 go run main.go
 
+ЗАРЕГАТЬСЯ НА ТОКЕН: https://newsapi.org/register
+
+https://freshman.tech/web-development-with-go/
